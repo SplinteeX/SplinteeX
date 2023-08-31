@@ -36,10 +36,10 @@
 
 ###
 
-<h4 align="left">Currently studying in Metropolia University of Applied Sciences</h4>
+<h4 align="left">&nbsp&nbsp🎓&nbspCurrently studying in Metropolia University of Applied Sciences</h4>
 
 ###
 
-<h4 align="left">Currently participating in project named Urapolku.fi as a Front-End-Developer</h4>
+<h4 align="left">&nbsp&nbsp🔨&nbspCurrently participating in project named Urapolku.fi as a Front-End-Developer</h4>
 
 ###
