@@ -43,3 +43,4 @@
 <h4 align="left">&nbsp&nbsp🔨&nbspCurrently participating in project named Urapolku.fi as a Front-End-Developer</h4>
 
 ###
+<h4 align="left">&nbsp&nbsp🔨&nbspCurrently working for Digiseikkailu as a full-stack developer</h4>
