@@ -1,46 +1,39 @@
-<h2 align="left">Hi 👋! My name is Jesper and im a developer from Espoo, Finland</h2>
 
-###
+## Get user SplinteeX
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SplinteeX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+```http
+  GET github/users/SplinteeX
+```
+### Fetching data...
+# User SplinteeX
 
-###
+I'm Jesper, a passionate developer from [Finland](https://en.wikipedia.org/wiki/finland).
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+🚀 I'm currently enhancing my knowledge in web-development.
 
-###
+### About Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/jesper-selenius-7b2109230/?originalSubdomain=fi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Jesper&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+- 🔭 I'm currently working on Digiseikkailu.
+- 🔭 Also working on a project called Urapolku.fi.
+- 🌱 I'm currently learning to become a better full-stack-developer.
+- 📖 I'm currently studying in Metropolia to become a Software-Engineer.
 
-###
+### My GitHub Stats
 
-<img align="left" height="204" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"  />
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SplinteeX&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-###
+[![GitHub Streak](https://streak-stats.demolab.com?user=SplinteeX)](https://git.io/streak-stats)
 
-<h4 align="left">&nbsp&nbsp🎓&nbspCurrently studying in Metropolia University of Applied Sciences</h4>
 
-###
+### Languages and Tools
 
-<h4 align="left">&nbsp&nbsp🔨&nbspCurrently participating in project named Urapolku.fi as a Front-End-Developer</h4>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SplinteeX&layout=compact&theme=dark)
 
-###
-<h4 align="left">&nbsp&nbsp🔨&nbspCurrently working for Digiseikkailu as a full-stack developer</h4>
+### Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/jesper-selenius-7b2109230/)
+
+
+
+
+
