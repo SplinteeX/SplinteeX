@@ -14,7 +14,6 @@ I'm Jesper, a passionate developer from [Finland](https://en.wikipedia.org/wiki/
 ### About Me
 
 - 🔭 I'm currently working on Digiseikkailu.
-- 🔭 Also working on a project called Urapolku.fi.
 - 🌱 I'm currently learning to become a better full-stack-developer.
 - 📖 I'm currently studying in Metropolia to become a Software-Engineer.
 
