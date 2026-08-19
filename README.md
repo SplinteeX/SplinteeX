@@ -12,8 +12,6 @@
   - I'm currently enhancing my knowledge in web-development.
 
 ### 🔍 About Me
-
-- 🔭 I'm currently working as freelancer on Digiseikkailu.
 - 🌱 I'm currently learning to become a better full-stack-developer.
 - 📖 I'm currently studying in Metropolia to become a Software-Engineer.
 
